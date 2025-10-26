@@ -1,0 +1,157 @@
+/* FONTS */
+*{
+    font-family: "Inter", sans-serif;
+}
+
+h1, h2, h3, h4, .h1, .h2, .h3, .h4 {
+    font-family: "Dancing Script", cursive;
+    font-weight: 700;
+}
+
+:root {
+    
+    /* Background colors */
+    --bgColor_1: #A3A380;
+    --bgColor_2: #D6CE93;
+    --bgColor_3: #EFEBCE;
+    --bgColor_4: #2E282A;
+    
+    /* Text colors */
+    --textColor_1: #A3A380;
+    --textColor_2: #D6CE93;
+    --textColor_3: #EFEBCE;
+    --textColor_4: #2E282A;
+    
+}
+
+.bgColor_1 {
+    background-color: var(--bgColor_1);
+}
+
+.bgColor_2 {
+    background-color: var(--bgColor_2);
+}
+
+.bgColor_3 {
+    background-color: var(--bgColor_3);
+}
+
+.bgColor_4 {
+    background-color: var(--bgColor_4);
+}
+
+.textColor_1 {
+    color: var(--textColor_1);
+}
+
+.textColor_2 {
+    color: var(--textColor_2);
+}
+.textColor_3 {
+    color: var(--textColor_3);
+}
+
+.textColor_4 {
+    color: var(--textColor_4);
+}
+
+/* BODY */
+
+body {
+    background-color: var(--bgColor_3);
+    color: var(--textColor_4);
+}
+
+/* NAVBAR */
+
+.logo-presto{
+    width: 45px;
+}
+
+.navbar{
+    transition: 0.18s linear;
+    height: 130px;
+}
+
+.nav-item{
+    padding: 0px 5px;
+}
+
+
+.nav-link:hover{
+    color: var(--textColor_3) !important;
+    text-shadow: 3px 3px 7px var(--textColor_4);
+}
+
+/* HEADER */
+
+.index_custom_header{
+    
+    margin-top: 0px;
+    background-image: linear-gradient(var(--bgColor_3) 0%, transparent 10%, transparent 90%, var(--bgColor_3) 100%), url(./Media/cooking_wallpaper.jpg);
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-title {
+    font-size: 130px;
+    text-emphasis-style:unset;
+    text-shadow: -1px -1px 0 var(--bgColor_2),  1px -1px 0 var(--bgColor_2),  -1px  1px 0 var(--bgColor_2),  1px  1px 0 var(--bgColor_2);
+}
+
+.vh-header-custom{
+    height: 110vh;
+}
+
+/* POSITIONED */
+
+.custom-card{
+    
+    border: 2px solid var(--bgColor_2);
+    border-radius: 10px;
+    background-color: var(--bgColor_2);
+    transition: 0.2s;
+}
+
+.positioned{
+    position: relative;
+    top: -100px;
+    
+}
+
+.custom-card:hover {
+    transform: scale(1.2);
+    background-color: var(--bgColor_4);
+    color: var(--textColor_2);
+}
+
+.custom-card:hover .fa-solid{
+    color: var(--textColor_3);
+    text-shadow: 1px 1px 3px var(--bgColor_2), -1px 1px 3px var(--bgColor_2), 1px -1px 3px var(--bgColor_2), -1px -1px 3px var(--bgColor_2);
+    
+}
+
+.increasing-number{
+    font-size: 30px;
+}
+
+
+/* Media Queries */
+
+@media screen and (max-width: 768px) {
+    
+    .positioned{
+        position: static;
+    }
+    
+    .header-title {
+        font-size: 80px;
+    }
+    
+    .navbar{
+        height: 100px;
+    }   
+    
+}

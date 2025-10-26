@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "pancetta, melanzane, ricotta, acciughe, pomodoro",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Farfalle con Verdure",
+        "ingredients": "basilico, tonno, ricotta, olio d'oliva, pancetta, tartufo",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "melanzane, gamberi, formaggio, acciughe",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "spinaci, rucola, panna, gamberi, tonno, zucchine",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "zucchine, ricotta, acciughe, basilico",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "ricotta, tonno, olio d'oliva, pancetta",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "aglio, melanzane, cipolla, olive",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Trofie al Pesto",
+        "ingredients": "tartufo, formaggio, acciughe, vongole",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "ricotta, olio d'oliva, gamberi, panna, prosciutto, rucola",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "ricotta, gamberi, piselli, acciughe",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "panna, tonno, olive",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "panna, melanzane, ricotta, peperoncino, cipolla",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "spinaci, rucola, acciughe",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Orecchiette con le Cime di Rapa",
+        "ingredients": "gamberi, piselli, aglio, basilico",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Trofie al Pesto",
+        "ingredients": "tonno, formaggio, basilico, cipolla, olio d'oliva, aglio",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "vongole, prosciutto, spinaci, olio d'oliva",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Paccheri al Sugo di Pomodoro",
+        "ingredients": "melanzane, tonno, zucchine",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "spinaci, melanzane, tartufo, tonno",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "aglio, peperoncino, pancetta, vongole",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "piselli, tartufo, spinaci, vongole, pancetta, acciughe",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "pancetta, cipolla, formaggio, acciughe",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "vongole, pancetta, cipolla, formaggio, peperoncino",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "rucola, basilico, gamberi, vongole, formaggio, prosciutto",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "spinaci, melanzane, zucchine",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "rucola, ricotta, basilico, tonno, melanzane",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "olio d'oliva, tonno, spinaci, tartufo, vongole, funghi",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "gamberi, peperoncino, pancetta",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Trofie al Pesto",
+        "ingredients": "spinaci, funghi, zucchine, olive, olio d'oliva, acciughe",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Trofie al Pesto",
+        "ingredients": "formaggio, prosciutto, tonno",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "ricotta, pancetta, gamberi",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "olive, basilico, piselli, tonno, aglio, acciughe",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Farfalle con Verdure",
+        "ingredients": "olio d'oliva, acciughe, melanzane, gamberi",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "rucola, olio d'oliva, prosciutto, aglio",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "spinaci, tonno, formaggio, melanzane, olio d'oliva",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "ricotta, basilico, vongole, piselli",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "tonno, acciughe, funghi, melanzane",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "olive, tonno, vongole",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "olive, zucchine, rucola",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "ricotta, peperoncino, pomodoro, panna",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "pancetta, piselli, tartufo, spinaci",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "cipolla, pomodoro, vongole, gamberi",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "gamberi, pomodoro, zucchine, cipolla",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Ravioli di Ricotta e Spinaci",
+        "ingredients": "pancetta, pomodoro, ricotta, olio d'oliva, tartufo",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "pancetta, prosciutto, tartufo, ricotta, olive, basilico",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Bucatini all’Amatriciana",
+        "ingredients": "cipolla, gamberi, rucola, piselli, basilico, tonno",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Trofie al Pesto",
+        "ingredients": "pomodoro, olive, tartufo, melanzane, vongole",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "spinaci, tartufo, rucola, olive, vongole, piselli",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "prosciutto, pancetta, funghi",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "melanzane, gamberi, rucola, formaggio, cipolla",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "cipolla, spinaci, pomodoro, olive, tartufo",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliolini al Tartufo",
+        "ingredients": "gamberi, pancetta, prosciutto, piselli",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "prosciutto, tonno, tartufo, pancetta, peperoncino",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "tartufo, piselli, cipolla, pomodoro, ricotta",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "cipolla, melanzane, basilico, zucchine, tonno",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "vongole, olio d'oliva, basilico, cipolla",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "ricotta, spinaci, piselli, cipolla, pomodoro, rucola",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "prosciutto, formaggio, peperoncino, tartufo, basilico",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "pomodoro, acciughe, funghi, olive, cipolla, ricotta",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "panna, pancetta, peperoncino",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "prosciutto, ricotta, rucola, panna, pancetta",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Orecchiette con le Cime di Rapa",
+        "ingredients": "tonno, pancetta, vongole",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "prosciutto, panna, olive",
+        "difficulty": "medium",
+        "price": "medium"
+    },
+    {
+        "name": "Ravioli di Ricotta e Spinaci",
+        "ingredients": "aglio, melanzane, piselli, peperoncino, olive, tartufo",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "gamberi, panna, pancetta",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Paccheri al Sugo di Pomodoro",
+        "ingredients": "gamberi, ricotta, rucola, zucchine, panna",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "prosciutto, funghi, ricotta, tartufo",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "aglio, acciughe, basilico, formaggio, vongole, tartufo",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "gamberi, tartufo, pomodoro, ricotta, acciughe, basilico",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "basilico, formaggio, panna, acciughe, pancetta, funghi",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "acciughe, olio d'oliva, rucola, aglio, gamberi",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "formaggio, olio d'oliva, spinaci, aglio, melanzane, prosciutto",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "acciughe, prosciutto, spinaci",
+        "difficulty": "medium",
+        "price": "medium"
+    },
+    {
+        "name": "Bucatini all’Amatriciana",
+        "ingredients": "aglio, formaggio, olio d'oliva, rucola, gamberi, basilico",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "tartufo, olio d'oliva, olive, cipolla",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "olive, formaggio, tartufo",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "peperoncino, melanzane, prosciutto, acciughe, spinaci",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "zucchine, pomodoro, basilico, gamberi, peperoncino, tonno",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "gamberi, basilico, prosciutto, vongole, pancetta, olive",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "aglio, pancetta, pomodoro",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "prosciutto, panna, tartufo, zucchine, aglio, basilico",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "olio d'oliva, piselli, aglio, prosciutto",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "tartufo, pomodoro, spinaci, olio d'oliva",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "olio d'oliva, acciughe, vongole",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "panna, olive, pancetta",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "vongole, funghi, aglio, prosciutto, zucchine, melanzane",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "cipolla, tonno, olio d'oliva, melanzane, prosciutto, rucola",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "aglio, piselli, panna, formaggio, funghi, cipolla",
+        "difficulty": "medium",
+        "price": "medium"
+    },
+    {
+        "name": "Trofie al Pesto",
+        "ingredients": "pancetta, formaggio, tonno, melanzane, acciughe, tartufo",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "pancetta, olio d'oliva, spinaci, zucchine, funghi, acciughe",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Paccheri al Sugo di Pomodoro",
+        "ingredients": "acciughe, cipolla, pomodoro",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "pancetta, aglio, acciughe, spinaci",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Orecchiette con le Cime di Rapa",
+        "ingredients": "piselli, olive, basilico, zucchine, rucola",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "pomodoro, formaggio, peperoncino",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "peperoncino, gamberi, tartufo, melanzane",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "rucola, tartufo, pomodoro, acciughe",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Bucatini all’Amatriciana",
+        "ingredients": "prosciutto, melanzane, gamberi, tonno, cipolla, ricotta",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "prosciutto, acciughe, pomodoro, pancetta, melanzane, rucola",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "piselli, tonno, funghi, zucchine, cipolla, rucola",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "melanzane, olio d'oliva, prosciutto",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Tagliolini al Tartufo",
+        "ingredients": "ricotta, olio d'oliva, zucchine, formaggio, gamberi, tonno",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "tonno, cipolla, ricotta",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Tagliolini al Tartufo",
+        "ingredients": "pancetta, ricotta, aglio, cipolla, peperoncino",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "olive, olio d'oliva, rucola",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "rucola, formaggio, vongole, zucchine",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "pancetta, olio d'oliva, funghi, zucchine",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Ravioli di Ricotta e Spinaci",
+        "ingredients": "pancetta, gamberi, olive, tonno",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Farfalle con Verdure",
+        "ingredients": "prosciutto, vongole, cipolla, basilico, zucchine",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Tagliolini al Tartufo",
+        "ingredients": "funghi, piselli, zucchine, acciughe, rucola, prosciutto",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "acciughe, aglio, gamberi, tonno",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Bucatini all’Amatriciana",
+        "ingredients": "panna, gamberi, basilico, olive, ricotta",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "aglio, pancetta, spinaci, acciughe",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "zucchine, peperoncino, piselli, prosciutto, pancetta, rucola",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "panna, olio d'oliva, aglio, olive, pancetta",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "aglio, prosciutto, acciughe, zucchine",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "piselli, melanzane, pomodoro, panna",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta alla Norma",
+        "ingredients": "spinaci, melanzane, basilico, piselli, prosciutto, gamberi",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Bucatini all’Amatriciana",
+        "ingredients": "melanzane, funghi, rucola, ricotta, olio d'oliva, prosciutto",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "tartufo, vongole, piselli",
+        "difficulty": "medium",
+        "price": "medium"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "prosciutto, pancetta, funghi, peperoncino, melanzane",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "tonno, pancetta, piselli, panna",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Rigatoni alla Gricia",
+        "ingredients": "olive, pomodoro, panna, peperoncino, cipolla, gamberi",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "aglio, cipolla, formaggio, panna",
+        "difficulty": "medium",
+        "price": "medium"
+    },
+    {
+        "name": "Paccheri al Sugo di Pomodoro",
+        "ingredients": "prosciutto, zucchine, vongole",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Paccheri al Sugo di Pomodoro",
+        "ingredients": "olio d'oliva, aglio, tartufo, spinaci, cipolla",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Tagliolini al Tartufo",
+        "ingredients": "gamberi, olio d'oliva, prosciutto, pomodoro, acciughe",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "pancetta, vongole, piselli",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Orecchiette con le Cime di Rapa",
+        "ingredients": "acciughe, tonno, piselli, cipolla, basilico",
+        "difficulty": "medium",
+        "price": "medium"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "zucchine, vongole, peperoncino, tonno",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Tagliolini al Tartufo",
+        "ingredients": "panna, aglio, zucchine, olive",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Fusilli alla Siciliana",
+        "ingredients": "pancetta, ricotta, aglio",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Farfalle con Verdure",
+        "ingredients": "funghi, spinaci, peperoncino",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Gnocchi al Gorgonzola",
+        "ingredients": "peperoncino, olio d'oliva, tartufo, formaggio",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Linguine ai Frutti di Mare",
+        "ingredients": "tartufo, funghi, spinaci",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "zucchine, spinaci, olio d'oliva, melanzane",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Cavatelli con Salsiccia",
+        "ingredients": "rucola, melanzane, vongole",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Fettuccine Alfredo",
+        "ingredients": "olive, pomodoro, gamberi, ricotta, olio d'oliva, piselli",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "olive, prosciutto, peperoncino, rucola, vongole, piselli",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "tonno, panna, funghi, pancetta, basilico, pomodoro",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "gamberi, olio d'oliva, melanzane, formaggio",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "zucchine, olio d'oliva, melanzane",
+        "difficulty": "easy",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "olio d'oliva, rucola, vongole, peperoncino, melanzane",
+        "difficulty": "easy",
+        "price": "medium"
+    },
+    {
+        "name": "Tagliatelle al Ragù",
+        "ingredients": "cipolla, aglio, gamberi, basilico, formaggio, acciughe",
+        "difficulty": "hard",
+        "price": "cheap"
+    },
+    {
+        "name": "Pasta al Limone",
+        "ingredients": "panna, basilico, pomodoro, acciughe",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Lasagne alla Bolognese",
+        "ingredients": "basilico, prosciutto, peperoncino, melanzane, vongole",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "melanzane, piselli, panna, funghi, peperoncino, olive",
+        "difficulty": "medium",
+        "price": "cheap"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "zucchine, olio d'oliva, cipolla, gamberi, vongole, pomodoro",
+        "difficulty": "hard",
+        "price": "expensive"
+    },
+    {
+        "name": "Pasta al Pesto Rosso",
+        "ingredients": "tartufo, cipolla, acciughe, vongole",
+        "difficulty": "easy",
+        "price": "cheap"
+    },
+    {
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "melanzane, tartufo, panna",
+        "difficulty": "hard",
+        "price": "medium"
+    },
+    {
+        "name": "Paccheri al Sugo di Pomodoro",
+        "ingredients": "basilico, panna, melanzane, tartufo, prosciutto, tonno",
+        "difficulty": "medium",
+        "price": "expensive"
+    },
+    {
+        "name": "Spaghetti alla Carbonara",
+        "ingredients": "cipolla, vongole, spinaci",
+        "difficulty": "hard",
+        "price": "medium"
+    }
+]
