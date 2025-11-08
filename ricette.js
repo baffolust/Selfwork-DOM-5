@@ -54,14 +54,14 @@ fetch("./Pasta.json").then((response)=>response.json()).then(data=>{
     
     let recipeCardWrapper = document.querySelector('#recipeCardWrapper');
     
+    // Funzione per mostrare le card
     function showCards(arrayCard){
         
         recipeCardWrapper.innerHTML='';
-        
         arrayCard.forEach((recipe, i)=>{
-            
+        
+            // Traduco stringhe in icone, sia per difficoltà che per costo
             let difficulty = "";
-            
             switch(recipe.difficulty) {
                 case "easy":
                 difficulty = `<i class="fa-solid fa-star fa-sm"></i>`;
@@ -80,7 +80,6 @@ fetch("./Pasta.json").then((response)=>response.json()).then(data=>{
             }
             
             let cost = "";
-            
             switch(recipe.price) {
                 case "cheap":
                 cost = `<i class="fa-solid fa-dollar-sign fa-sm"></i>`;
@@ -119,7 +118,106 @@ fetch("./Pasta.json").then((response)=>response.json()).then(data=>{
         });
         
     };
-
+    
     showCards(data);
+
+    let wordInput = document.querySelector('#wordInput');
+    let radioDifficultyButtons = document.querySelectorAll('.radioDifficulty');
+    let radioPriceButtons = document.querySelectorAll('.radioPrice');
+
+    // console.log(radioPriceButtons);
+    
+
+    function filterByTitle(arrayRecipes){
+
+        let filtered = arrayRecipes.filter((recipe)=>recipe.name.toLowerCase().includes(wordInput.value.toLowerCase()));
+        return filtered;
+    };
+
+    wordInput.addEventListener('input', ()=> globalFilter());
+
+    function numericDifficulty(difficulty){
+
+        let difficultyNumber = 0;
+        switch(difficulty){
+                case "easy":
+                difficultyNumber = 1;
+                break;
+                
+                case "medium":
+                difficultyNumber = 2;
+                break;
+                
+                case "hard":
+                difficultyNumber = 3;
+                break;
+            }
+        return difficultyNumber;
+    };
+
+    function filterByDifficulty(arrayRecipes){
+
+        let itemDifficulty = numericDifficulty(Array.from(radioDifficultyButtons).find((button)=>button.checked).id);
+
+        // console.log(itemDifficulty);
+        
+        let filtered = arrayRecipes.filter((recipe)=>
+            numericDifficulty(recipe.difficulty) <= itemDifficulty);
+
+        return filtered;
+        
+    };
+
+    // console.log(radioDifficultyButtons);
+
+    
+    radioDifficultyButtons.forEach((button)=>{
+        button.addEventListener('click',()=>globalFilter());
+        
+
+    });
+
+    function numericPrice(price){
+
+        let priceNumber = 0;
+        switch(price){
+                case "cheap":
+                priceNumber = 1;
+                break;
+                
+                case "average":
+                priceNumber = 2;
+                break;
+                
+                case "expensive":
+                priceNumber = 3;
+                break;
+            }
+        return priceNumber;
+    };
+
+    function filterByPrice(arrayRecipes){
+
+        let itemPrice = numericPrice(Array.from(radioPriceButtons).find((button)=>button.checked).id);
+
+        console.log(itemPrice);
+        
+        let filtered = arrayRecipes.filter((recipe)=>
+            numericPrice(recipe.price) <= itemPrice);
+
+        return filtered;
+        
+    };
+
+    radioPriceButtons.forEach((button)=>{
+        button.addEventListener('click',()=>globalFilter());
+    });
+
+    function globalFilter(){
+        let filteredByTitle = filterByTitle(data);
+        let filteredByDifficulty = filterByDifficulty(filteredByTitle);
+        let filteredByPrice = filterByPrice(filteredByDifficulty);
+        showCards(filteredByPrice);
+    }
     
 })

@@ -36,7 +36,7 @@
         "price": "expensive"
     },
     {
-        "name": "Cavatelli con Salsiccia",
+        "name": "Cavatelli con Melanzane",
         "ingredients": "aglio, melanzane, cipolla, olive",
         "difficulty": "medium",
         "price": "cheap"
@@ -45,7 +45,7 @@
         "name": "Trofie al Pesto",
         "ingredients": "tartufo, formaggio, acciughe, vongole",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Gnocchi al Gorgonzola",
@@ -93,7 +93,7 @@
         "name": "Rigatoni alla Gricia",
         "ingredients": "vongole, prosciutto, spinaci, olio d'oliva",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Paccheri al Sugo di Pomodoro",
@@ -105,7 +105,7 @@
         "name": "Pasta al Pesto Rosso",
         "ingredients": "spinaci, melanzane, tartufo, tonno",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Lasagne alla Bolognese",
@@ -117,7 +117,7 @@
         "name": "Rigatoni alla Gricia",
         "ingredients": "piselli, tartufo, spinaci, vongole, pancetta, acciughe",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Penne all'Arrabbiata",
@@ -135,7 +135,7 @@
         "name": "Fettuccine Alfredo",
         "ingredients": "rucola, basilico, gamberi, vongole, formaggio, prosciutto",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Tagliatelle al Ragù",
@@ -159,7 +159,7 @@
         "name": "Gnocchi al Gorgonzola",
         "ingredients": "gamberi, peperoncino, pancetta",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Trofie al Pesto",
@@ -174,10 +174,10 @@
         "price": "cheap"
     },
     {
-        "name": "Cavatelli con Salsiccia",
+        "name": "Cavatelli Mari e Monti",
         "ingredients": "ricotta, pancetta, gamberi",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fusilli alla Siciliana",
@@ -225,7 +225,7 @@
         "name": "Fettuccine Alfredo",
         "ingredients": "olive, zucchine, rucola",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fettuccine Alfredo",
@@ -273,7 +273,7 @@
         "name": "Trofie al Pesto",
         "ingredients": "pomodoro, olive, tartufo, melanzane, vongole",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Pasta alla Norma",
@@ -309,25 +309,25 @@
         "name": "Gnocchi al Gorgonzola",
         "ingredients": "prosciutto, tonno, tartufo, pancetta, peperoncino",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
-        "name": "Cavatelli con Salsiccia",
+        "name": "Cavatelli al Tartufo",
         "ingredients": "tartufo, piselli, cipolla, pomodoro, ricotta",
         "difficulty": "easy",
         "price": "cheap"
     },
     {
-        "name": "Gnocchi al Gorgonzola",
+        "name": "Gnocchi Vegetariani",
         "ingredients": "cipolla, melanzane, basilico, zucchine, tonno",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
-        "name": "Gnocchi al Gorgonzola",
+        "name": "Gnocchi alle Vongole",
         "ingredients": "vongole, olio d'oliva, basilico, cipolla",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fettuccine Alfredo",
@@ -339,7 +339,7 @@
         "name": "Pasta al Pesto Rosso",
         "ingredients": "prosciutto, formaggio, peperoncino, tartufo, basilico",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Rigatoni alla Gricia",
@@ -348,7 +348,7 @@
         "price": "expensive"
     },
     {
-        "name": "Pasta al Pesto Rosso",
+        "name": "Pasta alla Rossa",
         "ingredients": "panna, pancetta, peperoncino",
         "difficulty": "easy",
         "price": "expensive"
@@ -366,10 +366,10 @@
         "price": "cheap"
     },
     {
-        "name": "Rigatoni alla Gricia",
+        "name": "Rigatoni alle Olive",
         "ingredients": "prosciutto, panna, olive",
         "difficulty": "medium",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Ravioli di Ricotta e Spinaci",
@@ -378,19 +378,19 @@
         "price": "expensive"
     },
     {
-        "name": "Rigatoni alla Gricia",
+        "name": "Rigatoni Mari e Monti",
         "ingredients": "gamberi, panna, pancetta",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
-        "name": "Paccheri al Sugo di Pomodoro",
+        "name": "Paccheri ai gamberi",
         "ingredients": "gamberi, ricotta, rucola, zucchine, panna",
         "difficulty": "easy",
         "price": "expensive"
     },
     {
-        "name": "Tagliatelle al Ragù",
+        "name": "Tagliatelle alla Boscaiola",
         "ingredients": "prosciutto, funghi, ricotta, tartufo",
         "difficulty": "medium",
         "price": "expensive"
@@ -399,19 +399,19 @@
         "name": "Gnocchi al Gorgonzola",
         "ingredients": "aglio, acciughe, basilico, formaggio, vongole, tartufo",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
-        "name": "Rigatoni alla Gricia",
+        "name": "Rigatoni Ricchi",
         "ingredients": "gamberi, tartufo, pomodoro, ricotta, acciughe, basilico",
         "difficulty": "easy",
         "price": "cheap"
     },
     {
-        "name": "Pasta al Pesto Rosso",
+        "name": "Pasta al sottobosco",
         "ingredients": "basilico, formaggio, panna, acciughe, pancetta, funghi",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Lasagne alla Bolognese",
@@ -420,16 +420,16 @@
         "price": "cheap"
     },
     {
-        "name": "Lasagne alla Bolognese",
-        "ingredients": "formaggio, olio d'oliva, spinaci, aglio, melanzane, prosciutto",
+        "name": "Lasagne Veggie",
+        "ingredients": "formaggio, olio d'oliva, spinaci, aglio, melanzane",
         "difficulty": "medium",
         "price": "expensive"
     },
     {
-        "name": "Lasagne alla Bolognese",
+        "name": "Lasagne alternative",
         "ingredients": "acciughe, prosciutto, spinaci",
         "difficulty": "medium",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Bucatini all’Amatriciana",
@@ -471,13 +471,13 @@
         "name": "Fusilli alla Siciliana",
         "ingredients": "aglio, pancetta, pomodoro",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Gnocchi al Gorgonzola",
         "ingredients": "prosciutto, panna, tartufo, zucchine, aglio, basilico",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Cavatelli con Salsiccia",
@@ -507,7 +507,7 @@
         "name": "Pasta alla Norma",
         "ingredients": "vongole, funghi, aglio, prosciutto, zucchine, melanzane",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Pasta al Limone",
@@ -519,7 +519,7 @@
         "name": "Pasta alla Norma",
         "ingredients": "aglio, piselli, panna, formaggio, funghi, cipolla",
         "difficulty": "medium",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Trofie al Pesto",
@@ -585,13 +585,13 @@
         "name": "Pasta al Limone",
         "ingredients": "piselli, tonno, funghi, zucchine, cipolla, rucola",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Pasta alla Norma",
         "ingredients": "melanzane, olio d'oliva, prosciutto",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Tagliolini al Tartufo",
@@ -639,13 +639,13 @@
         "name": "Farfalle con Verdure",
         "ingredients": "prosciutto, vongole, cipolla, basilico, zucchine",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Tagliolini al Tartufo",
         "ingredients": "funghi, piselli, zucchine, acciughe, rucola, prosciutto",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fusilli alla Siciliana",
@@ -669,7 +669,7 @@
         "name": "Gnocchi al Gorgonzola",
         "ingredients": "zucchine, peperoncino, piselli, prosciutto, pancetta, rucola",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fettuccine Alfredo",
@@ -705,13 +705,13 @@
         "name": "Tagliatelle al Ragù",
         "ingredients": "tartufo, vongole, piselli",
         "difficulty": "medium",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Lasagne alla Bolognese",
         "ingredients": "prosciutto, pancetta, funghi, peperoncino, melanzane",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Pasta al Pesto Rosso",
@@ -729,7 +729,7 @@
         "name": "Lasagne alla Bolognese",
         "ingredients": "aglio, cipolla, formaggio, panna",
         "difficulty": "medium",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Paccheri al Sugo di Pomodoro",
@@ -741,7 +741,7 @@
         "name": "Paccheri al Sugo di Pomodoro",
         "ingredients": "olio d'oliva, aglio, tartufo, spinaci, cipolla",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Tagliolini al Tartufo",
@@ -759,7 +759,7 @@
         "name": "Orecchiette con le Cime di Rapa",
         "ingredients": "acciughe, tonno, piselli, cipolla, basilico",
         "difficulty": "medium",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fusilli alla Siciliana",
@@ -807,7 +807,7 @@
         "name": "Cavatelli con Salsiccia",
         "ingredients": "rucola, melanzane, vongole",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Fettuccine Alfredo",
@@ -843,7 +843,7 @@
         "name": "Pasta al Limone",
         "ingredients": "olio d'oliva, rucola, vongole, peperoncino, melanzane",
         "difficulty": "easy",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Tagliatelle al Ragù",
@@ -885,7 +885,7 @@
         "name": "Penne all'Arrabbiata",
         "ingredients": "melanzane, tartufo, panna",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     },
     {
         "name": "Paccheri al Sugo di Pomodoro",
@@ -897,6 +897,6 @@
         "name": "Spaghetti alla Carbonara",
         "ingredients": "cipolla, vongole, spinaci",
         "difficulty": "hard",
-        "price": "medium"
+        "price": "average"
     }
 ]
