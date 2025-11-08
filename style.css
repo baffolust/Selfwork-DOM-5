@@ -143,6 +143,7 @@ body {
 
 /* PAGINA RICETTE */
 
+/* Card */
 .recipe-header-custom{
     padding-top: 150px;
 }
@@ -173,6 +174,22 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+}
+
+/* Accordion */
+
+.accordion-button, .accordion-item{
+    background-color: var(--bgColor_2);
+    color: var(--textColor_4);
+}
+
+.accordion-button:not(.collapsed){
+    background-color: var(--bgColor_1);
+    color: var(--textColor_3);
+}
+
+.accordion-button:focus{
+    box-shadow: none;
 }
 
 /* Media Queries */
