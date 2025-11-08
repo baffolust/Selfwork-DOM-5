@@ -155,6 +155,7 @@ body {
 }
 
 .recipe-card-custom{
+    margin: 15px 0px;
     width: 90%;
     border: 3px solid var(--bgColor_1);
     border-radius: 20px;
