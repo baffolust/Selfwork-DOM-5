@@ -83,6 +83,8 @@ body {
     text-shadow: 3px 3px 7px var(--textColor_4);
 }
 
+/* PAGINA INDEX */
+
 /* HEADER */
 
 .index_custom_header{
@@ -104,6 +106,7 @@ body {
 .vh-header-custom{
     height: 110vh;
 }
+
 
 /* POSITIONED */
 
@@ -138,6 +141,40 @@ body {
 }
 
 
+/* PAGINA RICETTE */
+
+.recipe-header-custom{
+    padding-top: 150px;
+}
+
+.recipe-title{
+    font-size: 90px;
+    text-emphasis-style:unset;
+    text-shadow: -1px -1px 0 var(--bgColor_2),  1px -1px 0 var(--bgColor_2),  -1px  1px 0 var(--bgColor_2),  1px  1px 0 var(--bgColor_2);
+}
+
+.recipe-card-custom{
+    width: 90%;
+    border: 3px solid var(--bgColor_1);
+    border-radius: 20px;
+}
+
+#receipeCardWrapper {
+    align-self: flex-start; /* Evita che la card si allunghi con l'accordion */
+}
+
+.recipe-card-img{
+    border-top-left-radius: 17px;
+    border-bottom-left-radius: 17px;
+    width: 100%;
+}
+
+.recipe-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
@@ -152,6 +189,21 @@ body {
     
     .navbar{
         height: 100px;
-    }   
+    }  
+    
+    .recipe-header-custom{
+        padding-top: 140px;
+    }
+    
+    .recipe-title{
+        font-size: 55px;
+        
+    }
+    
+    .recipe-card-img{
+        border-top-right-radius: 17px;
+        border-bottom-left-radius: 0px;
+        width: 100%;
+    }
     
 }
