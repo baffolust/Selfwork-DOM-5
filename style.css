@@ -193,6 +193,45 @@ body {
     box-shadow: none;
 }
 
+/* PAGINA CHEFS */
+
+.chefs-header-custom{
+    padding-top: 150px;
+}
+
+.swiper {
+    width: 100%;
+    margin-top: 50px;
+    
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    filter: grayscale(100%);
+    transition: filter 0.4s ease;
+}
+
+.swiper-slide-active img {
+    filter: grayscale(0%);
+}
+
+.slide-description{
+    margin-top: 20px;
+   
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 768px) {
@@ -222,6 +261,10 @@ body {
         border-top-right-radius: 17px;
         border-bottom-left-radius: 0px;
         width: 100%;
+    }
+    
+    .chefs-header-custom{
+        padding-top: 140px;
     }
     
 }

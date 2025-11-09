@@ -1,0 +1,79 @@
+[
+  {
+    "nome": "Giulia Rossi",
+    "anniEsperienza": 12,
+    "specialita": "Cucina mediterranea",
+    "curiosita": "Ha imparato a cucinare osservando sua nonna in un piccolo borgo della Puglia.",
+    "imgURL": "https://plus.unsplash.com/premium_photo-1690086519096-0594592709d3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=871"
+  },
+  {
+    "nome": "Marco Bianchi",
+    "anniEsperienza": 8,
+    "specialita": "Street food gourmet",
+    "curiosita": "Ha iniziato come food trucker a Londra prima di aprire un bistrot a Milano.",
+    "imgURL": "https://plus.unsplash.com/premium_photo-1689568126014-06fea9d5d341?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Elena Conti",
+    "anniEsperienza": 15,
+    "specialita": "Pasticceria francese",
+    "curiosita": "Colleziona stampi per dolci vintage provenienti da tutto il mondo.",
+    "imgURL": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Luca Ferri",
+    "anniEsperienza": 10,
+    "specialita": "Cucina asiatica fusion",
+    "curiosita": "Ha vissuto in Giappone per 3 anni studiando la filosofia del ramen.",
+    "imgURL": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Serena Galli",
+    "anniEsperienza": 9,
+    "specialita": "Piatti vegetariani e vegani",
+    "curiosita": "Crea i propri coloranti naturali usando fiori e spezie.",
+    "imgURL": "https://images.unsplash.com/photo-1505999407077-7937810b98ae?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1030"
+  },
+  {
+    "nome": "Davide Mancini",
+    "anniEsperienza": 20,
+    "specialita": "Cucina toscana tradizionale",
+    "curiosita": "Possiede un orto biologico dove coltiva tutte le erbe che usa nei piatti.",
+    "imgURL": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=848"
+  },
+  {
+    "nome": "Francesca Leone",
+    "anniEsperienza": 6,
+    "specialita": "Cucina molecolare",
+    "curiosita": "Ama sperimentare con l’azoto liquido e la scienza degli aromi.",
+    "imgURL": "https://images.unsplash.com/photo-1490195117352-aa267f47f2d9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Andrea Puglisi",
+    "anniEsperienza": 14,
+    "specialita": "Cucina di mare",
+    "curiosita": "Ha imparato a cucinare pesce freschissimo lavorando su un peschereccio siciliano.",
+    "imgURL": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Tommaso Greco",
+    "anniEsperienza": 7,
+    "specialita": "Pizza napoletana contemporanea",
+    "curiosita": "Fermenta gli impasti fino a 72 ore per ottenere leggerezza perfetta.",
+    "imgURL": "https://plus.unsplash.com/premium_photo-1689629870780-5d0e655383e6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Gabriele Fontana",
+    "anniEsperienza": 17,
+    "specialita": "Cucina francese classica",
+    "curiosita": "Ha lavorato a Parigi come sous-chef per un ristorante con due stelle Michelin.",
+    "imgURL": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+  },
+  {
+    "nome": "Pietro Sala",
+    "anniEsperienza": 9,
+    "specialita": "Cucina argentina e barbecue",
+    "curiosita": "Ha una collezione di coltelli da carne artigianali provenienti da Buenos Aires.",
+    "imgURL": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=871"
+  }
+]

@@ -11,6 +11,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     
+    <!-- SWIPE LINK -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"/>
     
     <!-- BOOTSTRAP LINK -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
@@ -50,64 +52,66 @@
     
     <!-- HEADER -->
     
-    <header class="container-fluid index_custom_header">
+    <header class="container-fluid">
         
-        <div class="row vh-header-custom align-items-center">
+        <div class="row chefs-header-custom align-items-center">
             <div class="col-12">
-                <h1 class="textColor_4 text-center header-title">Cooking Pasta</h1>
+                <h1 class="textColor_4 text-center recipe-title">I nostri Chef</h1>
             </div>
         </div>
     </header>
     
     <!-- HEADER END -->
     
-    <!-- POSITIONED -->
+    <!-- SEZIONE CHEFS -->
     
     <section class="container">
         
-        <div class="row justify-content-center positioned">
-            <div class="col-10 col-md-3 custom-card d-flex flex-column align-items-center text-center py-2 mx-1 mb-2">
-                <i class="fa-solid fa-bowl-food fa-3x"></i>
-                <span class="increasing-number" id="firstNumber">800</span>
-                <h3 class="my-2">Specialità Regionali</h3>
-                <p>Un viaggio tra tradizione, autenticità e sapori unici: le nostre specialità regionali raccontano il territorio, la cultura e il saper fare italiano attraverso ingredienti genuini, ricette tipiche e passione artigianale.</p>
+        <div class="row justify-content-center">
+            
+            <div class="col-12 col-md-10">
+                <div class="swiper mySwiper">
+                    <div class="swiper-wrapper">
+                        <!-- modello swiper-slide -->
+                        <!-- <div class="swiper-slide">
+                            <img src="https://swiperjs.com/demos/images/nature-1.jpg" />
+                        </div> -->
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
             </div>
-            <div class="col-10 col-md-3 custom-card d-flex flex-column align-items-center text-center py-2 mx-1 mb-2">
-                <i class="fa-solid fa-circle-play fa-3x"></i>
-                <span class="increasing-number" id="secondNumber">800</span>
-                <h3 class="my-2">Lezioni Online</h3>
-                <p>Scopri le nostre video lezioni di cucina: passo dopo passo, impari tecniche, segreti e ricette dei maestri. Dalla tradizione alle creazioni gourmet, per cucinare con passione, creatività e sicurezza.</p>
-            </div>
-            <div class="col-10 col-md-3 custom-card d-flex flex-column align-items-center text-center py-2 mx-1 mb-2">
-                <i class="fa-solid fa-utensils fa-3x"></i>
-                <span class="increasing-number" id="thirdNumber">800</span>
-                <h3 class="my-2">Recensioni Ristoranti</h3>
-                <p>Esplora le nostre recensioni di ristoranti: esperienze autentiche, giudizi sinceri e racconti di gusto. Scopri dove mangiare bene, tra eccellenze locali, atmosfere uniche e piatti che lasciano il segno.</p>
+            <div class="col-12 col-md-6" id="detailsWrapper">
+                <!-- modello slide-description -->
+                <!-- <div class="slide-description text-center">
+                    <p class="h1">Nome</p>
+                    <p class="h2">specialità</p>
+                    <p class="h3">anni di esperienza</p>
+                    <p class="h4">curiosità</p>
+                </div> -->
             </div>
             
-        </div>        
-        
+            
+        </div>
         
     </section>
     
-    <!-- POSITIONED END -->
-    
-    
-    
+    <!-- SEZIONE CHEFS End -->
     
     
     
     
     <!-- FONTAWESOME -->
-    
     <script src="https://kit.fontawesome.com/e43841e118.js" crossorigin="anonymous"></script>
     
+    <!-- SWIPE JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
     
     <!-- BOOTSTRAP JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     
     <!-- CUSTOM JS Link -->
+    <script src="./Chefs.js"></script>
     
-    <script src="./main.js"></script>
+    
 </body>
 </html>
